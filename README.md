@@ -1,1 +1,1 @@
-# Cotton_Disease_prediction-
+# Cotton_Disease_Classification
