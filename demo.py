@@ -1,12 +1,7 @@
 print("a")
 print("a")
 print("a")
-v
 print("a")
-v
-v
-v
-v
 print("a")
 print("a")
 print("a")
